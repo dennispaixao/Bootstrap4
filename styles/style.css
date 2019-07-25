@@ -1,0 +1,32 @@
+.row-header{
+    margin:0 auto;
+    padding:0 auto;
+    color:white;
+}
+
+.row-content{
+    margin:0 auto;
+    padding: 50px 0 50px 0;
+    border-bottom: 1px ridge;
+    min-height:1px;
+}
+
+.footer{
+    background-color: rgb(201, 159, 255);
+    margin:0px auto;
+    padding:20px 0 20px 0;
+}
+
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin:0px auto;
+    background:#9575CD;
+    color:floral-white;
+
+}
+.adress{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+
+}
