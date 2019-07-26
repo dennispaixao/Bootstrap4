@@ -30,3 +30,33 @@
     color:#0f0f0f;
 
 }
+
+.navbar-item{
+    color:white;
+    font-size:20px;
+    margin-left:20px;
+}
+.navbar-link{
+    color:white;
+    text-decoration: none;
+
+}
+.navbar-link:hover{
+    text-decoration: none;
+    color:yellowgreen;
+}
+
+.navbar-nav{
+    display:flex;
+    align-items: center;
+    
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
